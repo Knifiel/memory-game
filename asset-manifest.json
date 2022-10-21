@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-game/static/css/main.1636d6f7.css",
+    "main.css": "/memory-game/static/css/main.c31878b7.css",
     "main.js": "/memory-game/static/js/main.4705c689.js",
     "static/media/pngkey.com-rick-and-morty-png-36968.webp": "/memory-game/static/media/pngkey.com-rick-and-morty-png-36968.5e932152b8f9431e3e7f.webp",
     "static/media/Ek4o50s4t4971.webp": "/memory-game/static/media/Ek4o50s4t4971.955c1cc242b3e6712865.webp",
@@ -23,11 +23,11 @@
     "static/media/WeirdRickNew.webp": "/memory-game/static/media/WeirdRickNew.358a912edbc46df770f0.webp",
     "static/media/Diane.webp": "/memory-game/static/media/Diane.102aeca5751ba497f694.webp",
     "index.html": "/memory-game/index.html",
-    "main.1636d6f7.css.map": "/memory-game/static/css/main.1636d6f7.css.map",
+    "main.c31878b7.css.map": "/memory-game/static/css/main.c31878b7.css.map",
     "main.4705c689.js.map": "/memory-game/static/js/main.4705c689.js.map"
   },
   "entrypoints": [
-    "static/css/main.1636d6f7.css",
+    "static/css/main.c31878b7.css",
     "static/js/main.4705c689.js"
   ]
 }
