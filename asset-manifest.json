@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.1636d6f7.css",
+    "main.js": "/memory-game/static/js/main.b7757b60.js",
+    "static/media/pngkey.com-rick-and-morty-png-36968.webp": "/memory-game/static/media/pngkey.com-rick-and-morty-png-36968.5e932152b8f9431e3e7f.webp",
+    "static/media/Ek4o50s4t4971.webp": "/memory-game/static/media/Ek4o50s4t4971.955c1cc242b3e6712865.webp",
+    "static/media/get_schwifty.ttf": "/memory-game/static/media/get_schwifty.c3d1dfc692e3547fed16.ttf",
+    "static/media/Rick_Sanchez.webp": "/memory-game/static/media/Rick_Sanchez.2a6e5b60574925ba2063.webp",
+    "static/media/Summer_is_cool.webp": "/memory-game/static/media/Summer_is_cool.2d434d73c689f24434bb.webp",
+    "static/media/Jessica.webp": "/memory-game/static/media/Jessica.259a2e6a3361f1d39a50.webp",
+    "static/media/Naruto_Smith.webp": "/memory-game/static/media/Naruto_Smith.9d982f4c691fa18d5aab.webp",
+    "static/media/Abradolf_Lincler_Angry.webp": "/memory-game/static/media/Abradolf_Lincler_Angry.bad3ce777290dc8a2d56.webp",
+    "static/media/DangelianPrisoner.webp": "/memory-game/static/media/DangelianPrisoner.725c0c1c313a83ad72f8.webp",
+    "static/media/Unity_by_Mixo.webp": "/memory-game/static/media/Unity_by_Mixo.379db896580f07cdd06f.webp",
+    "static/media/EvilMortyInSpace.webp": "/memory-game/static/media/EvilMortyInSpace.ff68843fc8bcf0ca628f.webp",
+    "static/media/Adam.webp": "/memory-game/static/media/Adam.8c7264c3c6d40ef0cecc.webp",
+    "static/media/Mr_poopy_butthole.webp": "/memory-game/static/media/Mr_poopy_butthole.3cd644f16dce0d748d8b.webp",
+    "static/media/Beth.PNG.webp": "/memory-game/static/media/Beth.PNG.b4916685319b295d9c91.webp",
+    "static/media/Beth_Smith.webp": "/memory-game/static/media/Beth_Smith.25f908fc7533649ddf43.webp",
+    "static/media/Beebo.webp": "/memory-game/static/media/Beebo.32cad570102104fe9093.webp",
+    "static/media/Morty501.webp": "/memory-game/static/media/Morty501.78a3bcfbc6fb8ee45aed.webp",
+    "static/media/Jerry_Smith.webp": "/memory-game/static/media/Jerry_Smith.91898aa0a52009e8c6eb.webp",
+    "static/media/WeirdRickNew.webp": "/memory-game/static/media/WeirdRickNew.358a912edbc46df770f0.webp",
+    "static/media/Diane.webp": "/memory-game/static/media/Diane.102aeca5751ba497f694.webp",
+    "index.html": "/memory-game/index.html",
+    "main.1636d6f7.css.map": "/memory-game/static/css/main.1636d6f7.css.map",
+    "main.b7757b60.js.map": "/memory-game/static/js/main.b7757b60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1636d6f7.css",
+    "static/js/main.b7757b60.js"
+  ]
+}
