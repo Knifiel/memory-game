@@ -33,7 +33,9 @@ function App() {
 
   const clickHandler = (number, id) => {
     if (clickedImages.includes(number)) {
-      setMax(current)
+      if (current > max) {
+        setMax(current)
+      }
       setClickedImages([])
       setCurrent(0)
       newBoard()
