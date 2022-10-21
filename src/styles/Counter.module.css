@@ -1,0 +1,22 @@
+.counter {
+  background-color: greenyellow;
+  border: 4px solid grey;
+  font-family: monospace;
+  display: flex;
+  place-content: center;
+  color: #063545;
+  font-size: 1em;
+}
+.animate {
+  animation: glow 0.5s ease-in-out 2 alternate both;
+}
+
+@keyframes glow {
+  from {
+    border-color: grey;
+  }
+  to {
+    border-color: yellow;
+    box-shadow: 0 0 5px 5px yellowgreen;
+  }
+}

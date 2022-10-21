@@ -1,0 +1,48 @@
+.image {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 100%;
+  border: 5px solid yellowgreen;
+  background: rgb(20, 139, 68);
+  background: radial-gradient(
+    circle,
+    rgba(20, 139, 68, 1) 20%,
+    rgba(210, 224, 84, 1) 80%
+  );
+}
+.image:hover {
+  cursor: pointer;
+  animation: glow 1s ease-in-out infinite alternate both;
+}
+.div {
+  width: 70%;
+  height: 70%;
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  transform: translate(50%, -50%);
+  display: flex;
+  place-items: center;
+  place-content: center;
+}
+.divPortalBackground {
+  background-image: url('../assets/pngkey.com-rick-and-morty-png-36968.webp');
+  background-repeat: no-repeat;
+  background-clip: border-bsox;
+  background-position: 50% 50%;
+  background-size: contain;
+  position: relative;
+  min-width: max(calc(100vw / 5), 380px);
+  height: min(100vh, 400px);
+}
+@keyframes glow {
+  from {
+    border-color: yellowgreen;
+    box-shadow: none;
+  }
+  to {
+    border-color: yellow;
+    box-shadow: 0px 0px 10px 10px yellow;
+  }
+}

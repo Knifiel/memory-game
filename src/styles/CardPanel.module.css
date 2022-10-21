@@ -1,0 +1,7 @@
+.div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  min-height: 50vh;
+  justify-content: flex-start;
+}
