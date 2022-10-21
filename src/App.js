@@ -11,6 +11,7 @@ function App() {
 
   useEffect(() => {
     newBoard()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   const newBoard = () => {
@@ -20,6 +21,7 @@ function App() {
     }
     setImages(array)
   }
+
   const addNonRepeatingNumber = (array) => {
     const number = Math.floor(Math.random() * 18 + 1)
     if (array.includes(number)) {
